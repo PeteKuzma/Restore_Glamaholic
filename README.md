@@ -6,3 +6,5 @@ Packages needed:
 - Garland Tools
 - ProgressBar
 - json
+
+Attached is a .json file which can be used as a test, and the test output after running the notebook.

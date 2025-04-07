@@ -1,0 +1,736 @@
+
+    -------------------------
+    Plate Name: Untitled Plate 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: None 
+    Plate Body: Ivalician Sky Pirate's Jacket 
+    Plate Hands: None 
+    Plate Legs: Ivalician Sky Pirate's Trousers 
+    Plate Feet: None 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: Untitled Plate 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: None 
+    Plate Body: Blade's Harness of Fending 
+    Plate Hands: Baronial Wristwraps 
+    Plate Legs: Blade's Cuisses of Fending 
+    Plate Feet: Blade's Shoes of Fending 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: Alex-Tank 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: Shaded Spectacles 
+    Plate Body: Alexandrian Mail of Fending 
+    Plate Hands: Alexandrian Gauntlets of Fending 
+    Plate Legs: Alexandrian Breeches of Fending 
+    Plate Feet: Alexandrian Sollerets of Fending 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: Daystar-healer 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Daystar Robe 
+    Plate Hands: Daystar Gloves 
+    Plate Legs: Daystar Breeches 
+    Plate Feet: Daystar Sollerets 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: BLM - Allagan 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: Cashmere Hat of Casting 
+    Plate Body: Replica Allagan Tunic of Casting 
+    Plate Hands: The Emperor's New Gloves 
+    Plate Legs: Isle Shepherd's Bottoms 
+    Plate Feet: Replica Sky Rat Hookboots of Scouting 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: tank ishgard 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Storm Private's Haubergeon 
+    Plate Hands: Miqo'te Gauntlets 
+    Plate Legs: Aurum Trousers 
+    Plate Feet: Templar's Sollerets 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: baltheir 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Ivalician Sky Pirate's Jacket 
+    Plate Hands: Ivalician Sky Pirate's Plunder 
+    Plate Legs: Kupo Trousers 
+    Plate Feet: Ivalician Sky Pirate's Shoes 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: wedding 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Tailcoat of Eternal Innocence 
+    Plate Hands: Gloves of Eternal Innocence 
+    Plate Legs: Best Man's Slacks 
+    Plate Feet: Best Man's Gaiters 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: BLM - Dawntrail 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Miqo'te Vest 
+    Plate Hands: Island Resort Round Wristwatch 
+    Plate Legs: Anemos Sarouel 
+    Plate Feet: Pagos Boots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: Tank - dawntrail 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Blade's Harness of Fending 
+    Plate Hands: Baronial Wristwraps 
+    Plate Legs: Blade's Cuisses of Fending 
+    Plate Feet: Blade's Shoes of Fending 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: Pre dawntail - PLD 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Creed Cuirass 
+    Plate Hands: Creed Gauntlets 
+    Plate Legs: Creed Cuisses 
+    Plate Feet: Creed Sabatons 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: predawntrail - Reaper 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Replica Sky Pirate's Coat of Maiming 
+    Plate Hands: Dinosaur Leather Gloves 
+    Plate Legs: Replica Sky Rat Breeches of Maiming 
+    Plate Feet: Pagos Boots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: WAR 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Tigerskin Coat of Fending 
+    Plate Hands: Serpentskin Halfgloves of Crafting 
+    Plate Legs: Twinsilk Slops of Fending 
+    Plate Feet: Doman Steel Greaves of Fending 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: dawntrail - REAPER 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Blade's Harness of Maiming 
+    Plate Hands: Baronial Wristwraps 
+    Plate Legs: Blade's Cuisses of Maiming 
+    Plate Feet: Blade's Shoes of Maiming 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: pre dawntrail - Sch 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Prestige High Allagan Coat of Healing 
+    Plate Hands: Prestige High Allagan Gloves of Healing 
+    Plate Legs: Prestige High Allagan Pantaloons of Healing 
+    Plate Feet: Prestige High Allagan Thighboots of Healing 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: spy - MCH 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: Noir Hat 
+    Plate Body: Appointed Jacket 
+    Plate Hands: No.2 Type B Gloves 
+    Plate Legs: Appointed Slacks 
+    Plate Feet: Best Man's Gaiters 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: Pink mage - RDM 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: Virtu Duelist's Chapeau 
+    Plate Body: Virtu Duelist's Tabard 
+    Plate Hands: No.2 Type B Gloves 
+    Plate Legs: Virtu Duelist's Breeches 
+    Plate Feet: Virtu Duelist's Thighboots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: gleamer 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Gleaner's Coat 
+    Plate Hands: Gleaner's Work Gloves 
+    Plate Legs: Gleaner's Breeches 
+    Plate Feet: Gleaner's Longboots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: base_janitor 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Craftsman's Coverall Top 
+    Plate Hands: The Emperor's New Gloves 
+    Plate Legs: Craftsman's Coverall Bottoms 
+    Plate Feet: Survival Boots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: base-Janitor_singlet 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Craftsman's Singlet 
+    Plate Hands: The Emperor's New Gloves 
+    Plate Legs: Craftsman's Coverall Bottoms 
+    Plate Feet: Survival Boots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: base_apron 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Craftsman's Apron 
+    Plate Hands: The Emperor's New Gloves 
+    Plate Legs: Craftsman's Leather Trousers 
+    Plate Feet: Craftsman's Leather Shoes 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: fisher - beach  
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: Summer's Flame Hat 
+    Plate Body: Summer's Flame Top 
+    Plate Hands: Summer's Flame Wrist Torque 
+    Plate Legs: Summer's Flame Pareo 
+    Plate Feet: Summer's Flame Sandals 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: Gleamer - brown 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Gleaner's Coat 
+    Plate Hands: Gleaner's Work Gloves 
+    Plate Legs: Gleaner's Breeches 
+    Plate Feet: Gleaner's Longboots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: gleamer - green 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Gleaner's Coat 
+    Plate Hands: Gleaner's Work Gloves 
+    Plate Legs: Gleaner's Breeches 
+    Plate Feet: Gleaner's Longboots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: CUL - DT 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: Augmented Galleyking's Toque 
+    Plate Body: Augmented Galleyking's Apron 
+    Plate Hands: Island Resort Round Wristwatch 
+    Plate Legs: Augmented Galleyking's Trousers 
+    Plate Feet: Augmented Galleyking's Shoes 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: WVR - Dawntrail 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Boltfiend's Swallowtail 
+    Plate Hands: Boltfiend's Fingerstalls 
+    Plate Legs: Boltfiend's Slacks 
+    Plate Feet: Boltfiend's Boots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: GSM - Dawntrail 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Gemfiend's Vest 
+    Plate Hands: Gemfiend's Shortgloves 
+    Plate Legs: Gemfiend's Trousers 
+    Plate Feet: Gemfiend's Boots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: LTR - Dawntrail 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Craftsman's Singlet 
+    Plate Hands: The Emperor's New Gloves 
+    Plate Legs: Craftsman's Coverall Bottoms 
+    Plate Feet: Survival Boots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: ALC - Dawntrail 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Craftsman's Apron 
+    Plate Hands: The Emperor's New Gloves 
+    Plate Legs: Craftsman's Leather Trousers 
+    Plate Feet: Craftsman's Leather Shoes 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: BSM - Dawntrail 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Augmented Forgeking's Apron 
+    Plate Hands: The Emperor's New Gloves 
+    Plate Legs: Craftsman's Coverall Bottoms 
+    Plate Feet: Survival Boots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: Carp - Dawntrail 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Craftsman's Apron 
+    Plate Hands: The Emperor's New Gloves 
+    Plate Legs: Craftsman's Leather Trousers 
+    Plate Feet: Craftsman's Leather Shoes 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: ARM - Dawntrail 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: The Emperor's New Hat 
+    Plate Body: Craftsman's Coverall Top 
+    Plate Hands: The Emperor's New Gloves 
+    Plate Legs: Craftsman's Coverall Bottoms 
+    Plate Feet: Survival Boots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: Fisher/allclasses - DT 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: Isle Vacationer's Visor 
+    Plate Body: Recreationisle Shirt 
+    Plate Hands: Recreationisle Dive Watch 
+    Plate Legs: Recreationisle Halfslops 
+    Plate Feet: Recreationisle Shoes 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: BOT - DT 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: Fieldfiend's Hat 
+    Plate Body: Augmented Fieldkeep's Shirt 
+    Plate Hands: Island Resort Round Wristwatch 
+    Plate Legs: Augmented Fieldkeep's Slops 
+    Plate Feet: Augmented Fieldkeep's Jackboots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
+    -------------------------
+    Plate Name: MIN - DT 
+    -------------------------
+    Right-hand side. 
+    Plate Main Hand: None 
+    Plate Head: Augmented Minekeep's Helmet 
+    Plate Body: Augmented Minekeep's Overalls 
+    Plate Hands: Augmented Minekeep's Work Gloves 
+    Plate Legs: Augmented Minekeep's Slops 
+    Plate Feet: Augmented Minekeep's Workboots 
+
+    Left-hand side. 
+    Plate Off Hand: None 
+    Plate Ear: None 
+    Plate Neck: None 
+    Plate Wrist: None
+    Plate Right Ring: None
+    Plate Left Ring: None
+
+
+    
